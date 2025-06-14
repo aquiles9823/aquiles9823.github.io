@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inicio
+---
+
 # ¡Hola, mundo!
 
 Este es mi sitio web alojado en GitHub Pages.
