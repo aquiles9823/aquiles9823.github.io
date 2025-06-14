@@ -50,18 +50,24 @@ a {
 </style>
 
 <div class="hero">
-  <h1>¡Hola! Soy Aquiles</h1>
-  <p>Desarrollador apasionado construyendo proyectos web.</p>
+  <h1>Bienvenido a mi portafolio</h1>
+  <p>Soy Aquiles, un programador que disfruta creando soluciones de software.</p>
 </div>
 
 ## Sobre mí
 
-Me encanta experimentar con tecnologías modernas y escribir código limpio y mantenible.
+Actualmente me especializo en desarrollo web con Python y JavaScript.
 
 ```python
 def saludar(nombre: str) -> None:
     print(f"Hola, {nombre}!")
 ```
+## Proyectos
+
+- **Gestor de tareas** - Aplicación web para organizar actividades. [Código](https://github.com/aquiles9823/task-manager)
+- **API de clima** - Servicio REST que consulta datos meteorológicos. [Código](https://github.com/aquiles9823/weather-api)
+- **Juego 2D** - Recreación de un clásico arcade en Python. [Código](https://github.com/aquiles9823/arcade-game)
+
 
 ### Contacto
 
