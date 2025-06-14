@@ -1,3 +1,8 @@
+<link rel="stylesheet" href="style.css">
+<nav>
+<a href="./index.html">Inicio</a> | <a href="./about.html">Sobre mí</a> | <a href="./projects.html">Proyectos</a> | <a href="./contact.html">Contacto</a>
+</nav>
+
 # ¡Hola, mundo!
 
 Este es mi sitio web alojado en GitHub Pages.
