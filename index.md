@@ -1,20 +1,42 @@
 ---
 layout: default
-title: Inicio
+title: "Portafolio"
 ---
 
-# ¡Hola, mundo!
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-Este es mi sitio web alojado en GitHub Pages.
+<style>
+body {
+  background: radial-gradient(circle at top left, #1f4037, #99f2c8);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #202020;
+}
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+.code-sample {
+  background-color: #f5f5f5;
+  padding: 1rem;
+  border-radius: 6px;
+  font-family: monospace;
+}
+</style>
 
-## Sección 1
+<div class="hero">
+  <h1>¡Hola! Soy Aquiles</h1>
+  <p>Desarrollador apasionado construyendo proyectos web.</p>
+</div>
 
-Aquí hay algo de texto en **negrita** y algo en *cursiva*.
+## Sobre mí
 
-- Punto 1
-- Punto 2
-- Punto 3
+Me encanta experimentar con tecnologías modernas y escribir código limpio y mantenible.
 
-[Enlace a Google](https://www.google.com)
+```python
+def saludar(nombre: str) -> None:
+    print(f"Hola, {nombre}!")
+```
 
-![Imagen de ejemplo](https://via.placeholder.com/150)
+### Contacto
+
+Puedes seguirme en <a href="https://github.com/aquiles9823"><i class="fab fa-github"></i> GitHub</a>.
